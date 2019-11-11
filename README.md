@@ -1,4 +1,4 @@
-# Prova Finale di Algoritmi e Strutture Dati -  A.A 2018-2019
+# Prova Finale di Algoritmi e Strutture Dati -  a.a. 2018-2019
   Scopo del progetto è quello di implementare in linguaggio C standard un sistema in grado di gestire __entità__ e __relazioni__ . 
   
   L'istanza da gestire è fornita in un file di testo ricevuto come standard input, nel quale vengono definite le __entità__ da monitorare e le __relazioni__ tra queste.
